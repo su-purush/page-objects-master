@@ -13,7 +13,8 @@ import org.testng.annotations.BeforeMethod;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
-
+// this is used to test the things by pursuh
+// this is used to test the things by pursuh
 public class BaseTest {
 
     protected static final String WEB_SERVER = System.getProperty("WEB_SERVER", "http://stackoverflow.com/");
